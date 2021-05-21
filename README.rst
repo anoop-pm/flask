@@ -80,3 +80,8 @@ Links
 -   Website: https://palletsprojects.com/p/flask/
 -   Twitter: https://twitter.com/PalletsTeam
 -   Chat: https://discord.gg/pallets
+
+CORS
+----
+ - IF got cors error
+ - add cors  pip install FLASK_CORS
