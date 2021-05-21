@@ -84,4 +84,7 @@ Links
 CORS
 ----
  - IF got cors error
- - add cors  pip install FLASK_CORS
+ - add cors  
+ .. code-block:: text
+
+    $ pip install FLASK_CORS
